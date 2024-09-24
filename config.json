@@ -1,0 +1,21 @@
+{
+    "mts_login":{
+        "server":"185.96.244.53:443",
+        "login":8048,
+        "password":"Spectra@123"
+    },
+    "add_symbols":[
+        "GC.Q24",
+        "SI.U24",
+        "F.US.ZUIN24",
+        "GC.Z24",
+        "SI.Z24",
+        "BTCUSD",
+        "EURUSD",
+        "GBPUSD",
+        "USDJPY",
+        "DJ.U24",
+        "NQ.U24",
+        "NQ.Z24"
+    ]
+}

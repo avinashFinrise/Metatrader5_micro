@@ -1,0 +1,50 @@
+{
+    "mts_login":{
+        "server":"159.100.13.166:443",
+        "login":1012,
+        "password":"ctr7njcx"
+    },
+    "mts_login1":{
+        "server":"185.96.244.53:443",
+        "login":8057,
+        "password":"P-W7DgAy"
+    },
+    "nse_login":{
+        "server":"159.100.13.166:443",
+        "login":1014,
+        "password":"Galaxy#@7890"
+    },
+    "mcx_login":{
+        "server":"159.100.13.166:443",
+        "login":1014,
+        "password":"Galaxy#@7890"
+    },
+    "projectDir": "C:/Users/JAYESH/Desktop/mt5_python",
+    "add_symbols":[
+        "GC.Q24",
+        "SI.U24",
+        "F.US.ZUIN24",
+        "GC.Z24"
+    ],
+    "nse_contract_file_path": "../store/contracts/nse_contract_galaxy.CSV",
+    "mcx_contract_file_path": "../store/contracts/galaxy_mcx_contract_file.CSV",
+    "cme_contract_file_path": "../store/contracts/GALAXY_CME_CONTRACT_FILE.CSV",
+    "zmq_connection":{
+        "nse_connection": "tcp://192.168.15.61:5000",
+        "mcx_connection": "tcp://192.168.15.61:4000"
+    },
+    "pg_connection":{
+        "db_engine": "django.db.backends.postgresql",
+        "db_name": "GalaxyRMS",
+        "db_host": "192.168.15.105",
+        "db_user": "postgres",
+        "db_password": "Soft!@7890",
+        "pg_port": 5432
+    },
+    "login": {
+        "username": "microservices",
+        "password": "microservices@123",
+        "loginURL": "http://192.168.15.105:8500/account/login",
+        "wsURL": "ws://192.168.15.105:8500/ws/v1/"
+    }
+}

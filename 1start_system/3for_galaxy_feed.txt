@@ -1,0 +1,13 @@
+
+
+======== for MCX =========================
+ .\microenv\Scripts\activate
+ cd C:\Users\JAYESH\Desktop\mt5_python\galaxy_feeds\feeds
+ python MCX_feeds.py
+
+
+ #take new terminal
+ ======== for NSE =========================
+ .\microenv\Scripts\activate
+ cd C:\Users\JAYESH\Desktop\mt5_python\galaxy_feeds\feeds
+ python NSE_feeds.py 

@@ -1,0 +1,3 @@
+.\microenv\Scripts\activate
+cd C:\Users\JAYESH\Desktop\mt5_python\mt5OrderTracker
+python galaxy_order_details.py

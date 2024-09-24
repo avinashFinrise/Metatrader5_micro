@@ -1,0 +1,2 @@
+.\microenv\Scripts\activate
+python .\mt5_feeds.py
